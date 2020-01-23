@@ -1,5 +1,5 @@
-## GoCD Scripts Automation
+# GoCD Scripts Automation
 
-# Encrypt
+## Encrypt
 	- encrypt password shell
 	- yaml add securuty variables
